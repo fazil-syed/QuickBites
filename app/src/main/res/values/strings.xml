@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Quick Bites</string>
+    <!--    <string name="api_key">ba5109aa063b47718fa874cd1476bda1</string>-->
+    <string name="api_key">7c4563f707ab453aa2de893ef1444dc9</string>
+    <!--    <string name="api_key">fc280aba16db4aac9fd7c738629651cc</string>-->
+    <string name="_2_perons">2 Perons</string>
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drink</item>
+    </string-array>
+
+    <!--    Desp-->
+    <!--    Heading-->
+
+    <string name="slogan">Fresh And  Delicious</string>
+    <string name="recipe_details">Recipe Details</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <!-- Strings used for fragments for navigation -->
+</resources>
